@@ -1,2 +1,2 @@
 # Predictor
-learning how to make a python stock predictor from some guy off youtube!
+learning how to make a python stock predictor from others to brush up on my python skills
